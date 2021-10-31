@@ -1,0 +1,7 @@
+Credentials cache: API:5358
+        Principal: dabel-co@42MADRID.COM
+
+  Issued                Expires               Principal
+Feb 24 09:53:36 2021  Feb 24 19:53:33 2021  krbtgt/42MADRID.COM@42MADRID.COM
+
+
